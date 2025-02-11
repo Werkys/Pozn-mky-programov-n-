@@ -1,0 +1,47 @@
+import javax.swing.*;
+import java.util.Random;
+
+public class Test extends JFrame {
+
+
+    private JButton btGenerate;
+    private JPanel pnMain;
+    private JTextField txFdVypis;
+    private JTextField txFdRandomNum;
+    private JButton btCopy;
+    private JTextArea txAVypis;
+
+
+    public Test()  {
+        okno();
+
+    }
+
+    private void okno() {
+        setContentPane(pnMain);
+        setTitle("Ahoj");
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+
+        setSize(300,200);
+
+        btGenerate.addActionListener(e -> generate());
+        btCopy.addActionListener(e -> copy());
+
+
+
+
+    }
+
+    private void generate() {
+        Random random = new Random();
+        int randomNumber = random.nextInt(100);
+        txFdRandomNum.setText(String.valueOf(randomNumber));
+    }
+    private void copy() {
+        String randomNumber = txFdRandomNum.getText();
+        String existingText = txAVypis.getText();
+        txAVypis.setText(existingText + randomNumber + "\n");
+    }
+
+
+}
