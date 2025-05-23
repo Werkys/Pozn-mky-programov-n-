@@ -1,7 +1,7 @@
-Shrnutí: Tvorba software -- MiS
+Shrnutí: Tvorba software
 ------------------------------
 
-Tento dokument poskytuje přehled hlavních témat a důležitých myšlenek z výňatků textu "Tvorba software -- MiS". Text se zabývá procesem tvorby softwaru, s důrazem na jednotlivé fáze projektu, testování, profese a základní pojmy.
+Tento dokument poskytuje přehled hlavních témat a důležitých myšlenek z výňatků textu "Tvorba software". Text se zabývá procesem tvorby softwaru, s důrazem na jednotlivé fáze projektu, testování, profese a základní pojmy.
 
 ### Hlavní témata a klíčové myšlenky:
 
