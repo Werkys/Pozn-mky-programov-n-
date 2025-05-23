@@ -20,7 +20,7 @@ Tento dokument poskytuje přehled hlavních témat a důležitých myšlenek z v
 
 -   Informatik: "vědec", který se zabývá "algoritmy", jejich "převody", "vztahy mezi nimi" a "složitost algoritmů". Rozlišuje se "Základní výzkum" a "Aplikovaný výzkum".
 -   Softwarový inženýr (vývojář) ~ analytik: Provádí "analýzu úlohy", "Komunikuje se zákazníkem" a "Řídí spolupráci v týmu".
--   Kodér ~ programátor: "aplikuje obecné algoritmy na konkrétní úlohu" a "zapisuje v programovacím jazyce".
+-   programátor: "aplikuje obecné algoritmy na konkrétní úlohu" a "zapisuje v programovacím jazyce".
 -   Tester: "Po celou dobu projektu ověřuje správnost vytvořených materiálů".
 -   Projektový manažer: "Dohlíží na činnost týmu, kontroluje termíny", "Komunikuje se zákazníkem a předává požadavky týmu".
 -   UX specialista: "Navrhuje uživatelské rozhraní projektu tak, aby bylo uživatelsky přívětivé".
