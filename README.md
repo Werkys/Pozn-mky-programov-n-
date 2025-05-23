@@ -34,6 +34,4 @@ Tento dokument poskytuje přehled hlavních témat a důležitých myšlenek z v
 -   Metodika: Popisuje "jaké pracovníky využít, jaké činnosti vykonat, jaké nástroje použít, jaké produkty vyrobit".
 -   Softwarové inženýrství: "Vědecká disciplína, zabývá se metodikou a postupy efektivní práce a spolupráce v týmu při tvorbě SW". Zahrnuje i "návrh grafického rozhraní".
 
-Celkově text poskytuje strukturovaný pohled na proces tvorby softwaru, zdůrazňuje důležitost jednotlivých fází, kontinuálního testování a rolí v týmu. Podtrhuje také význam důkladné přípravy a návrhu před samotnou implementací.
 
-convert_to_textPřevést na zdroj
