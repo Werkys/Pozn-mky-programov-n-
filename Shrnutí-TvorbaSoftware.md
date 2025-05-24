@@ -3,7 +3,7 @@ Shrnutí: Tvorba software
 
 Tento dokument poskytuje přehled hlavních témat a důležitých myšlenek z výňatků textu "Tvorba software". Text se zabývá procesem tvorby softwaru, s důrazem na jednotlivé fáze projektu, testování, profese a základní pojmy.
 
-audio rozbor: [tvorbasoftware.notebooklm](
+audio rozbor: [tvorbasoftware.notebooklm](https://notebooklm.google.com/notebook/da582efa-3fe9-4fd2-8339-bef62f4eacfc/audio)
 ### Hlavní témata a klíčové myšlenky:
 
 1.  Fáze softwarového projektu: Text podrobně popisuje jednotlivé fáze životního cyklu softwaru. Je zde zdůrazněn sekvenční, ale iterativní přístup s důrazem na důkladnou přípravu v počátečních fázích.
