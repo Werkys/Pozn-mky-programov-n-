@@ -1,5 +1,9 @@
 Zde je zápis z poskytnutých stránek o konceptech Javy, včetně dědičnosti, rozhraní, abstraktních tříd a přetypování [1].
 
+
+audio rozbor: [dedicnostarozhrani.notebooklm](https://notebooklm.google.com/notebook/cca046a5-3872-40e6-868e-5dd75ad3eaf6/audio)
+
+
 ### Dědičnost
 **Dědičnost** umožňuje, aby třída přebírala vlastnosti a metody jiné třídy [1].
 *   Používá se klíčové slovo **`extends`** [1].
